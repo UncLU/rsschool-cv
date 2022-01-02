@@ -1,2 +1,2 @@
 # rsschool-cv
-https://github.com/UncLU/rsschool-cv/cv
+https://UncLu.github.io/rsschool-cv/cv
