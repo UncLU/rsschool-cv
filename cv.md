@@ -6,8 +6,13 @@
 
 I live in Surgut. I have been working in IT since 
 
-**2006г. - 2012 г.** Администрирование и контроль КПД. Сопровождение парка ПЭВМ. 
+** 2006 - 2012 ** Administration and efficiency control. Maintenance of the PC park.
 
-2012 г. - 2015 г. Администрирование доменных, почтовых серверов (более 30 000 пользователей) на базе MS. Визуализация серверов EXSI.
-2015 г. - 2019 г. ИБ (информационная безопасность). Настройка и сопровождение KLMS, Chekpoint 2019 г. - по настоящий день Бизнес аналитик. выступаю в части проектной группы по развитию ЭД в системе SAP.
-Цель: открытие новых горизонтов. изучение нового и интересного. целеустремленный, если интересный проект, то погружаюсь всей головой. Почему начал изучать JS - всегда нравилась творческая работа, когда из набора букв символов получается "офигительная картинка"
+** 2012 – 2015 **  Administration of domain, mail servers (over 30,000 users) based on MS. Visualization of EXSI servers.
+
+** 2015 - 2019 **  Information security. Configuring and maintaining KLMS, Check Point 
+
+** 2019 - to date **  Business analyst. I am part of the project group for the development of ED in the SAP system.
+
+Purpose: opening new horizons. learning new and interesting. purposeful, if an interesting project, then I dive with my whole head. Why did I start learning JS - I always liked creative work, when a "drop dead picture" is obtained from a set of letters of symbols
+
