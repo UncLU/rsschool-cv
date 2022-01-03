@@ -37,11 +37,35 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: 400;}
 body{
 	background-color: rgba(232, 232, 232, 1);
 	color: rgb(39, 61, 70);
+	font-family: 'Playfair Display', sans-serif;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	min-height: 100vh;
+	margin: 0px;
+	padding: 0px;
 }
 
+.nav-list{
+	list-style: none;
+	display: flex;
+	justify-content: flex-end;
+	align-items: center;
+}
+
+.nav-link{
+	padding: 0 15px;
+	line-height: 30px;
+	font-size: 20px;
+	color: rgba(39, 61, 70, 1);
+	padding: 0px 0px 0px 30px;
+	margin: 0px 0px 15px 0px;
+	font-family: serif;
+}
 
 .header{
 	padding: 45px;
+	border: 1px solid olive;
 }
 .header__menu{
 	font-size: 15px;
@@ -83,3 +107,18 @@ body{
 	padding:0px 0px 30px 0px
 	}
 
+	.footer{
+		border: 1px solid rebeccapurple;
+		font-size: 13px;
+
+		/* min-height: 100vh;
+		margin: 1000px;
+		padding: 100px; */
+		
+	}
+	.footer-imgrss{
+		/* display: flex;
+		justify-content: space-between; */
+		height: 50px;
+		width: auto;
+	}
