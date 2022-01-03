@@ -1,3 +1,3 @@
 # rsschool-cv
-https://UncLu.github.io/rsschool-cv/cv
-https://UncLu.github.io/rsschool-cv
+https://UncLU.github.io/rsschool-cv/cv
+https://UncLU.github.io/rsschool-cv/
