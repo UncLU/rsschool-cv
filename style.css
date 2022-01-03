@@ -55,9 +55,9 @@ body{
 
 .nav-link{
 	padding: 0 15px;
-	line-height: 30px;
-	font-size: 20px;
-	color: rgba(39, 61, 70, 1);
+	line-height: 15px;
+	font-size: 15px;
+	color: bisque; 
 	padding: 0px 0px 0px 30px;
 	margin: 0px 0px 15px 0px;
 	font-family: serif;
@@ -65,7 +65,7 @@ body{
 
 .header{
 	padding: 45px;
-	border: 1px solid olive;
+	background-color: rgba(39, 61, 70, 1);
 }
 .header__menu{
 	font-size: 15px;
