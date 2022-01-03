@@ -32,88 +32,54 @@ ul li{list-style: none;}
 img{vertical-align: top;}
 h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: 400;}
 /*--------------------*/
+
+
 body{
 	background-color: rgba(232, 232, 232, 1);
 	color: rgb(39, 61, 70);
 }
-.travel{
-	margin-top: 30px;
-	text-align: center;
-	font-size: 20px;
- 	color: #c0c0c0;
-}
-.heading{
-	margin-top: 35px;
-	text-align: center;
-	font-size: 45px;
-	font-style: italic;
-}
-.image{
-	margin: 35px;
-	/* height: 500px; */
-	/* width: 500px; */
-	background: url("https://scontent-arn2-1.xx.fbcdn.net/v/t31.18172-8/21248298_1113612195436594_2625710022469663962_o.jpg?_nc_cat=106&ccb=1-5&_nc_sid=84a396&_nc_ohc=jTJlsicNz1AAX9rXqJI&_nc_ht=scontent-arn2-1.xx&oh=00_AT-9r5hIawSqB33GJ1w4j0A5Pf-xwiHQI4TAQeeTTyHffw&oe=61F691B5") 50%/cover no-repeat;
-	background-position: center;
-	background-size: 1000px;
-	/* background-attachment: fixed; */
-	/* position: static; */
-	border-spacing: 1px;
-	/* border-radius: 15px; */
-	box-shadow: 0 0 10px #000;
-	margin: 35px 450px 0 450px;
-	padding-top: 690px;
-	padding-left: 100px;
-}
-.text{
-	font-size: 24px;
-	font-family: Pompadur, 'TimesNewRoman';
-	/* text-align: center; */
-	margin: 35px 450px 25px;
-	text-align: justify;
-	line-height: 1.5;
-	/* border: 1px solid #000 */
-}
-.number{
-	margin: 35px 450px 35px;
-}
-.number li{
-	font-size: 20px;
-	/* font-style: italic; */
-	/* margin: 35px 450px 75px; */
-	background: url("../img/icons/li.svg") left 5px no-repeat;
-	padding: 0px 0px 0px 30px;
-}
-.li1{
-	text-shadow: 1px 1px 3px #000;
 
-}
-.li2{
-	font-style: italic;
-	color: rgb(128, 183, 179);
-}
-.li3{
-	font-weight: bold;
-	color: rgba(39, 61, 70, 1);
-}
-.li4{
-	text-decoration: line-through;
-	color: silver;
 
+.header{
+	padding: 45px;
 }
-.button{
-	margin: 35px 450px 75px;
-	padding: 10px 10px 10px 20px;
-	overflow: hidden;
+.header__menu{
+	font-size: 15px;
+}
+.ava{
+	margin: 0px 100px;
+    border-radius: 10%;
+    width: 120px;
+    height: 150px;
+    border: 2px solid #f1f1f2;
+    display: flex;
+    align-items: left;
+    justify-content: left;	
+}
+
+.about__body{
+	max-width:823px;
+	margin:0px 0px 30px 50px;
+  }
+  
+  .about__header{
+	margin: 5px 0px 0px 0px;
+  }
+  
+  .about__title{
 	font-size: 34px;
-	color: white;
-	height: auto;
-	width: 15%;
-	border-radius: 50px;
-	border: 1px solid rgb(128, 183, 179);
-	background-color: rgb(128, 183, 179);
-	/* color: white; */
-	/* height: 10%; */
-	/* width: 5%;
-
-	border-radius: 50px; */
+	color:#868585;
+	margin:0px 0px 0px 100px;
+  }
+  
+  .about__text {
+	max-width:688px;
+	color:#868585;
+	font-size:20px;
+	font-weight:300;
+	text-align:left;
+	line-height:normal;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 30px 0px
+	}
 
