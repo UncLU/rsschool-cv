@@ -1,1 +1,1 @@
-https://UncLu.github.io/rsschool-cv/gh-pages/index.html
+https://UncLu.github.io/rsschool-cv/gh-pages
